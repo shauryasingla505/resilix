@@ -1,0 +1,8 @@
+# Dependencies & Build Artifacts
+node_modules/
+.next/
+dist/
+*.joblib
+*.pptx
+__pycache__/
+venv/

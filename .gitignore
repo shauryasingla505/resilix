@@ -1,5 +1,17 @@
-# Ignore heavy CSV datasets
-"train_dataset.csv" | Out-File -FilePath .gitignore -Encoding utf8
-"test_dataset.csv" | Out-File -Encoding utf8 -Append .gitignore
-"*.pyc" | Out-File -Encoding utf8 -Append .gitignore
-"__pycache__/" | Out-File -Encoding utf8 -Append .gitignore
+# Dependencies & Build Caches
+node_modules/
+.next/
+resilix-frontend/.next/
+dist/
+build/
+
+# Python Caches & Artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+*.sqlite3
+
+# Large Datasets & Models (Optional, keep if you want them tracked)
+# *.csv
+# *.pkl
+# *.joblib

@@ -1,0 +1,20 @@
+@"
+# Large Raw Kaggle Datasets & Archives
+*.csv
+*.zip
+playground-series-s4e5/
+
+# Python & Environment Caches
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env
+.env.local
+
+# OS Artifacts
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+"@ | Out-File -FilePath .gitignore -Encoding utf8

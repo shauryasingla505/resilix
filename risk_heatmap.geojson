@@ -1,0 +1,9605 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15142,
+          12.92892
+        ]
+      },
+      "properties": {
+        "id": "node_100",
+        "risk_score": 56.0,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10945,
+          12.91304
+        ]
+      },
+      "properties": {
+        "id": "node_101",
+        "risk_score": 57.5,
+        "water_level_m": 2.21,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15424,
+          12.93269
+        ]
+      },
+      "properties": {
+        "id": "node_102",
+        "risk_score": 51.0,
+        "water_level_m": 2.09,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16639,
+          12.95458
+        ]
+      },
+      "properties": {
+        "id": "node_103",
+        "risk_score": 53.0,
+        "water_level_m": 2.05,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14284,
+          12.91065
+        ]
+      },
+      "properties": {
+        "id": "node_104",
+        "risk_score": 59.0,
+        "water_level_m": 2.31,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17942,
+          12.91065
+        ]
+      },
+      "properties": {
+        "id": "node_105",
+        "risk_score": 63.0,
+        "water_level_m": 2.47,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11316,
+          12.95598
+        ]
+      },
+      "properties": {
+        "id": "node_106",
+        "risk_score": 45.5,
+        "water_level_m": 1.69,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10138,
+          12.93569
+        ]
+      },
+      "properties": {
+        "id": "node_107",
+        "risk_score": 51.0,
+        "water_level_m": 1.86,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.08803,
+          12.90476
+        ]
+      },
+      "properties": {
+        "id": "node_108",
+        "risk_score": 39.5,
+        "water_level_m": 1.6,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1699,
+          12.93006
+        ]
+      },
+      "properties": {
+        "id": "node_109",
+        "risk_score": 46.0,
+        "water_level_m": 1.76,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14886,
+          12.90491
+        ]
+      },
+      "properties": {
+        "id": "node_110",
+        "risk_score": 48.0,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13111,
+          12.90486
+        ]
+      },
+      "properties": {
+        "id": "node_111",
+        "risk_score": 49.5,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1395,
+          12.92255
+        ]
+      },
+      "properties": {
+        "id": "node_112",
+        "risk_score": 50.0,
+        "water_level_m": 1.87,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10436,
+          12.86867
+        ]
+      },
+      "properties": {
+        "id": "node_113",
+        "risk_score": 52.0,
+        "water_level_m": 1.9,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.19364,
+          12.87338
+        ]
+      },
+      "properties": {
+        "id": "node_114",
+        "risk_score": 55.0,
+        "water_level_m": 2.17,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13573,
+          12.90244
+        ]
+      },
+      "properties": {
+        "id": "node_115",
+        "risk_score": 57.5,
+        "water_level_m": 2.1,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13523,
+          12.89118
+        ]
+      },
+      "properties": {
+        "id": "node_116",
+        "risk_score": 58.5,
+        "water_level_m": 2.3,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15064,
+          12.92436
+        ]
+      },
+      "properties": {
+        "id": "node_117",
+        "risk_score": 52.5,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14453,
+          12.8938
+        ]
+      },
+      "properties": {
+        "id": "node_118",
+        "risk_score": 49.5,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1381,
+          12.88119
+        ]
+      },
+      "properties": {
+        "id": "node_119",
+        "risk_score": 44.0,
+        "water_level_m": 1.6,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11274,
+          12.95314
+        ]
+      },
+      "properties": {
+        "id": "node_120",
+        "risk_score": 52.0,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14429,
+          12.91086
+        ]
+      },
+      "properties": {
+        "id": "node_121",
+        "risk_score": 57.0,
+        "water_level_m": 2.14,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17955,
+          12.91819
+        ]
+      },
+      "properties": {
+        "id": "node_122",
+        "risk_score": 53.5,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16614,
+          12.88088
+        ]
+      },
+      "properties": {
+        "id": "node_123",
+        "risk_score": 52.5,
+        "water_level_m": 1.9,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17233,
+          12.90289
+        ]
+      },
+      "properties": {
+        "id": "node_124",
+        "risk_score": 51.5,
+        "water_level_m": 2.04,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11972,
+          12.91927
+        ]
+      },
+      "properties": {
+        "id": "node_125",
+        "risk_score": 58.0,
+        "water_level_m": 2.29,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10776,
+          12.88773
+        ]
+      },
+      "properties": {
+        "id": "node_126",
+        "risk_score": 58.0,
+        "water_level_m": 2.1,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12936,
+          12.92589
+        ]
+      },
+      "properties": {
+        "id": "node_127",
+        "risk_score": 57.0,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13389,
+          12.90148
+        ]
+      },
+      "properties": {
+        "id": "node_128",
+        "risk_score": 37.0,
+        "water_level_m": 1.34,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15985,
+          12.90921
+        ]
+      },
+      "properties": {
+        "id": "node_129",
+        "risk_score": 60.0,
+        "water_level_m": 2.29,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09019,
+          12.90146
+        ]
+      },
+      "properties": {
+        "id": "node_130",
+        "risk_score": 58.5,
+        "water_level_m": 2.23,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17074,
+          12.96281
+        ]
+      },
+      "properties": {
+        "id": "node_131",
+        "risk_score": 48.5,
+        "water_level_m": 1.88,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12855,
+          12.91616
+        ]
+      },
+      "properties": {
+        "id": "node_132",
+        "risk_score": 45.0,
+        "water_level_m": 1.67,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12183,
+          12.89006
+        ]
+      },
+      "properties": {
+        "id": "node_133",
+        "risk_score": 41.5,
+        "water_level_m": 1.6,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1072,
+          12.93706
+        ]
+      },
+      "properties": {
+        "id": "node_134",
+        "risk_score": 50.5,
+        "water_level_m": 1.96,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09113,
+          12.88598
+        ]
+      },
+      "properties": {
+        "id": "node_135",
+        "risk_score": 54.5,
+        "water_level_m": 2.07,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15308,
+          12.92172
+        ]
+      },
+      "properties": {
+        "id": "node_136",
+        "risk_score": 50.5,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13433,
+          12.86751
+        ]
+      },
+      "properties": {
+        "id": "node_137",
+        "risk_score": 56.5,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10025,
+          12.8833
+        ]
+      },
+      "properties": {
+        "id": "node_138",
+        "risk_score": 56.5,
+        "water_level_m": 2.19,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10012,
+          12.92142
+        ]
+      },
+      "properties": {
+        "id": "node_139",
+        "risk_score": 45.5,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12411,
+          12.93496
+        ]
+      },
+      "properties": {
+        "id": "node_140",
+        "risk_score": 48.5,
+        "water_level_m": 1.85,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17423,
+          12.92078
+        ]
+      },
+      "properties": {
+        "id": "node_141",
+        "risk_score": 52.0,
+        "water_level_m": 2.05,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12601,
+          12.91361
+        ]
+      },
+      "properties": {
+        "id": "node_142",
+        "risk_score": 53.5,
+        "water_level_m": 2.09,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09492,
+          12.90897
+        ]
+      },
+      "properties": {
+        "id": "node_143",
+        "risk_score": 46.0,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12636,
+          12.87954
+        ]
+      },
+      "properties": {
+        "id": "node_144",
+        "risk_score": 50.0,
+        "water_level_m": 1.81,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12568,
+          12.8985
+        ]
+      },
+      "properties": {
+        "id": "node_145",
+        "risk_score": 53.5,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.06508,
+          12.90498
+        ]
+      },
+      "properties": {
+        "id": "node_146",
+        "risk_score": 50.5,
+        "water_level_m": 2.0,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13114,
+          12.94293
+        ]
+      },
+      "properties": {
+        "id": "node_147",
+        "risk_score": 49.0,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12673,
+          12.92509
+        ]
+      },
+      "properties": {
+        "id": "node_148",
+        "risk_score": 39.0,
+        "water_level_m": 1.48,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14991,
+          12.87242
+        ]
+      },
+      "properties": {
+        "id": "node_149",
+        "risk_score": 50.5,
+        "water_level_m": 1.81,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17872,
+          12.9246
+        ]
+      },
+      "properties": {
+        "id": "node_150",
+        "risk_score": 45.5,
+        "water_level_m": 1.64,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16066,
+          12.90687
+        ]
+      },
+      "properties": {
+        "id": "node_151",
+        "risk_score": 51.5,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12578,
+          12.89958
+        ]
+      },
+      "properties": {
+        "id": "node_152",
+        "risk_score": 53.0,
+        "water_level_m": 1.92,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10484,
+          12.93179
+        ]
+      },
+      "properties": {
+        "id": "node_153",
+        "risk_score": 52.0,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.19683,
+          12.94227
+        ]
+      },
+      "properties": {
+        "id": "node_154",
+        "risk_score": 46.0,
+        "water_level_m": 1.7,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13398,
+          12.93978
+        ]
+      },
+      "properties": {
+        "id": "node_155",
+        "risk_score": 45.0,
+        "water_level_m": 1.71,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13285,
+          12.89552
+        ]
+      },
+      "properties": {
+        "id": "node_156",
+        "risk_score": 44.5,
+        "water_level_m": 1.6,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1319,
+          12.90877
+        ]
+      },
+      "properties": {
+        "id": "node_157",
+        "risk_score": 44.5,
+        "water_level_m": 1.74,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13745,
+          12.92478
+        ]
+      },
+      "properties": {
+        "id": "node_158",
+        "risk_score": 53.0,
+        "water_level_m": 1.89,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12889,
+          12.94089
+        ]
+      },
+      "properties": {
+        "id": "node_159",
+        "risk_score": 50.5,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11816,
+          12.90452
+        ]
+      },
+      "properties": {
+        "id": "node_160",
+        "risk_score": 54.5,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11883,
+          12.91186
+        ]
+      },
+      "properties": {
+        "id": "node_161",
+        "risk_score": 49.5,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13168,
+          12.88884
+        ]
+      },
+      "properties": {
+        "id": "node_162",
+        "risk_score": 57.0,
+        "water_level_m": 2.26,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11891,
+          12.88659
+        ]
+      },
+      "properties": {
+        "id": "node_163",
+        "risk_score": 53.0,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11468,
+          12.93681
+        ]
+      },
+      "properties": {
+        "id": "node_164",
+        "risk_score": 53.5,
+        "water_level_m": 2.04,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13516,
+          12.95041
+        ]
+      },
+      "properties": {
+        "id": "node_165",
+        "risk_score": 48.0,
+        "water_level_m": 1.8,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12613,
+          12.9147
+        ]
+      },
+      "properties": {
+        "id": "node_166",
+        "risk_score": 49.0,
+        "water_level_m": 1.83,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1701,
+          12.94159
+        ]
+      },
+      "properties": {
+        "id": "node_167",
+        "risk_score": 51.0,
+        "water_level_m": 2.0,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.06623,
+          12.92554
+        ]
+      },
+      "properties": {
+        "id": "node_168",
+        "risk_score": 50.5,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15979,
+          12.90037
+        ]
+      },
+      "properties": {
+        "id": "node_169",
+        "risk_score": 50.5,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16365,
+          12.92553
+        ]
+      },
+      "properties": {
+        "id": "node_170",
+        "risk_score": 54.0,
+        "water_level_m": 2.07,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.08067,
+          12.95495
+        ]
+      },
+      "properties": {
+        "id": "node_171",
+        "risk_score": 57.0,
+        "water_level_m": 2.22,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12393,
+          12.9156
+        ]
+      },
+      "properties": {
+        "id": "node_172",
+        "risk_score": 61.0,
+        "water_level_m": 2.27,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12321,
+          12.95562
+        ]
+      },
+      "properties": {
+        "id": "node_173",
+        "risk_score": 49.0,
+        "water_level_m": 1.75,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09731,
+          12.85101
+        ]
+      },
+      "properties": {
+        "id": "node_174",
+        "risk_score": 51.0,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11305,
+          12.93705
+        ]
+      },
+      "properties": {
+        "id": "node_175",
+        "risk_score": 47.0,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10474,
+          12.91868
+        ]
+      },
+      "properties": {
+        "id": "node_176",
+        "risk_score": 51.0,
+        "water_level_m": 1.85,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17631,
+          12.90902
+        ]
+      },
+      "properties": {
+        "id": "node_177",
+        "risk_score": 54.0,
+        "water_level_m": 2.11,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15589,
+          12.91879
+        ]
+      },
+      "properties": {
+        "id": "node_178",
+        "risk_score": 49.0,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16429,
+          12.86681
+        ]
+      },
+      "properties": {
+        "id": "node_179",
+        "risk_score": 45.5,
+        "water_level_m": 1.78,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15054,
+          12.91101
+        ]
+      },
+      "properties": {
+        "id": "node_180",
+        "risk_score": 49.0,
+        "water_level_m": 1.76,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10427,
+          12.92543
+        ]
+      },
+      "properties": {
+        "id": "node_181",
+        "risk_score": 49.0,
+        "water_level_m": 1.87,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11939,
+          12.95345
+        ]
+      },
+      "properties": {
+        "id": "node_182",
+        "risk_score": 58.5,
+        "water_level_m": 2.28,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14473,
+          12.90354
+        ]
+      },
+      "properties": {
+        "id": "node_183",
+        "risk_score": 58.5,
+        "water_level_m": 2.15,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10195,
+          12.89629
+        ]
+      },
+      "properties": {
+        "id": "node_184",
+        "risk_score": 43.5,
+        "water_level_m": 1.75,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15032,
+          12.90396
+        ]
+      },
+      "properties": {
+        "id": "node_185",
+        "risk_score": 51.5,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12649,
+          12.93939
+        ]
+      },
+      "properties": {
+        "id": "node_186",
+        "risk_score": 64.5,
+        "water_level_m": 2.53,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12313,
+          12.92472
+        ]
+      },
+      "properties": {
+        "id": "node_187",
+        "risk_score": 53.0,
+        "water_level_m": 1.94,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15027,
+          12.90326
+        ]
+      },
+      "properties": {
+        "id": "node_188",
+        "risk_score": 57.0,
+        "water_level_m": 2.12,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14361,
+          12.92933
+        ]
+      },
+      "properties": {
+        "id": "node_189",
+        "risk_score": 53.5,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12348,
+          12.91893
+        ]
+      },
+      "properties": {
+        "id": "node_190",
+        "risk_score": 47.5,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16148,
+          12.94072
+        ]
+      },
+      "properties": {
+        "id": "node_191",
+        "risk_score": 45.5,
+        "water_level_m": 1.89,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10547,
+          12.89895
+        ]
+      },
+      "properties": {
+        "id": "node_192",
+        "risk_score": 54.5,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1479,
+          12.90831
+        ]
+      },
+      "properties": {
+        "id": "node_193",
+        "risk_score": 47.5,
+        "water_level_m": 1.94,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14733,
+          12.9067
+        ]
+      },
+      "properties": {
+        "id": "node_194",
+        "risk_score": 52.0,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12476,
+          12.87991
+        ]
+      },
+      "properties": {
+        "id": "node_195",
+        "risk_score": 49.5,
+        "water_level_m": 1.94,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14065,
+          12.9239
+        ]
+      },
+      "properties": {
+        "id": "node_196",
+        "risk_score": 56.5,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10122,
+          12.92303
+        ]
+      },
+      "properties": {
+        "id": "node_197",
+        "risk_score": 48.0,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1556,
+          12.91663
+        ]
+      },
+      "properties": {
+        "id": "node_198",
+        "risk_score": 53.0,
+        "water_level_m": 1.9,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12788,
+          12.91064
+        ]
+      },
+      "properties": {
+        "id": "node_199",
+        "risk_score": 42.0,
+        "water_level_m": 1.75,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11943,
+          12.88112
+        ]
+      },
+      "properties": {
+        "id": "node_200",
+        "risk_score": 44.5,
+        "water_level_m": 1.82,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15873,
+          12.90598
+        ]
+      },
+      "properties": {
+        "id": "node_201",
+        "risk_score": 53.5,
+        "water_level_m": 2.1,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11489,
+          12.90793
+        ]
+      },
+      "properties": {
+        "id": "node_202",
+        "risk_score": 47.5,
+        "water_level_m": 1.69,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09729,
+          12.89644
+        ]
+      },
+      "properties": {
+        "id": "node_203",
+        "risk_score": 49.5,
+        "water_level_m": 1.84,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09358,
+          12.91247
+        ]
+      },
+      "properties": {
+        "id": "node_204",
+        "risk_score": 54.5,
+        "water_level_m": 2.0,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14765,
+          12.9266
+        ]
+      },
+      "properties": {
+        "id": "node_205",
+        "risk_score": 44.0,
+        "water_level_m": 1.67,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10049,
+          12.96365
+        ]
+      },
+      "properties": {
+        "id": "node_206",
+        "risk_score": 54.5,
+        "water_level_m": 1.94,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17637,
+          12.92086
+        ]
+      },
+      "properties": {
+        "id": "node_207",
+        "risk_score": 57.0,
+        "water_level_m": 2.28,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.08045,
+          12.92294
+        ]
+      },
+      "properties": {
+        "id": "node_208",
+        "risk_score": 54.5,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17491,
+          12.91464
+        ]
+      },
+      "properties": {
+        "id": "node_209",
+        "risk_score": 54.0,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13778,
+          12.86853
+        ]
+      },
+      "properties": {
+        "id": "node_210",
+        "risk_score": 52.5,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13008,
+          12.91584
+        ]
+      },
+      "properties": {
+        "id": "node_211",
+        "risk_score": 51.5,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11888,
+          12.91801
+        ]
+      },
+      "properties": {
+        "id": "node_212",
+        "risk_score": 48.5,
+        "water_level_m": 1.9,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14248,
+          12.97808
+        ]
+      },
+      "properties": {
+        "id": "node_213",
+        "risk_score": 47.0,
+        "water_level_m": 1.82,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13156,
+          12.91169
+        ]
+      },
+      "properties": {
+        "id": "node_214",
+        "risk_score": 42.0,
+        "water_level_m": 1.78,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16008,
+          12.92404
+        ]
+      },
+      "properties": {
+        "id": "node_215",
+        "risk_score": 41.5,
+        "water_level_m": 1.63,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13536,
+          12.91563
+        ]
+      },
+      "properties": {
+        "id": "node_216",
+        "risk_score": 58.5,
+        "water_level_m": 2.35,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13626,
+          12.88728
+        ]
+      },
+      "properties": {
+        "id": "node_217",
+        "risk_score": 50.5,
+        "water_level_m": 2.04,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12341,
+          12.94507
+        ]
+      },
+      "properties": {
+        "id": "node_218",
+        "risk_score": 49.0,
+        "water_level_m": 1.8,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13108,
+          12.9353
+        ]
+      },
+      "properties": {
+        "id": "node_219",
+        "risk_score": 52.5,
+        "water_level_m": 2.13,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1402,
+          12.93628
+        ]
+      },
+      "properties": {
+        "id": "node_220",
+        "risk_score": 51.0,
+        "water_level_m": 1.83,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.08975,
+          12.89377
+        ]
+      },
+      "properties": {
+        "id": "node_221",
+        "risk_score": 56.0,
+        "water_level_m": 2.21,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0988,
+          12.95157
+        ]
+      },
+      "properties": {
+        "id": "node_222",
+        "risk_score": 45.0,
+        "water_level_m": 1.71,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15108,
+          12.88145
+        ]
+      },
+      "properties": {
+        "id": "node_223",
+        "risk_score": 51.0,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13677,
+          12.93117
+        ]
+      },
+      "properties": {
+        "id": "node_224",
+        "risk_score": 53.5,
+        "water_level_m": 2.14,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1279,
+          12.97126
+        ]
+      },
+      "properties": {
+        "id": "node_225",
+        "risk_score": 55.0,
+        "water_level_m": 2.18,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13296,
+          12.89174
+        ]
+      },
+      "properties": {
+        "id": "node_226",
+        "risk_score": 44.5,
+        "water_level_m": 1.82,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14119,
+          12.90234
+        ]
+      },
+      "properties": {
+        "id": "node_227",
+        "risk_score": 54.5,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11901,
+          12.91899
+        ]
+      },
+      "properties": {
+        "id": "node_228",
+        "risk_score": 48.5,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11304,
+          12.90391
+        ]
+      },
+      "properties": {
+        "id": "node_229",
+        "risk_score": 43.5,
+        "water_level_m": 1.67,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1374,
+          12.87773
+        ]
+      },
+      "properties": {
+        "id": "node_230",
+        "risk_score": 40.5,
+        "water_level_m": 1.5,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10804,
+          12.91821
+        ]
+      },
+      "properties": {
+        "id": "node_231",
+        "risk_score": 55.5,
+        "water_level_m": 2.16,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14271,
+          12.88994
+        ]
+      },
+      "properties": {
+        "id": "node_232",
+        "risk_score": 47.5,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.08994,
+          12.92834
+        ]
+      },
+      "properties": {
+        "id": "node_233",
+        "risk_score": 50.0,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15823,
+          12.89351
+        ]
+      },
+      "properties": {
+        "id": "node_234",
+        "risk_score": 51.5,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14431,
+          12.95525
+        ]
+      },
+      "properties": {
+        "id": "node_235",
+        "risk_score": 54.5,
+        "water_level_m": 2.16,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1389,
+          12.89692
+        ]
+      },
+      "properties": {
+        "id": "node_236",
+        "risk_score": 49.5,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15707,
+          12.90845
+        ]
+      },
+      "properties": {
+        "id": "node_237",
+        "risk_score": 56.0,
+        "water_level_m": 2.23,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17414,
+          12.93684
+        ]
+      },
+      "properties": {
+        "id": "node_238",
+        "risk_score": 49.5,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15786,
+          12.88573
+        ]
+      },
+      "properties": {
+        "id": "node_239",
+        "risk_score": 50.0,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.08648,
+          12.92219
+        ]
+      },
+      "properties": {
+        "id": "node_240",
+        "risk_score": 51.0,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10051,
+          12.94918
+        ]
+      },
+      "properties": {
+        "id": "node_241",
+        "risk_score": 51.0,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11688,
+          12.87631
+        ]
+      },
+      "properties": {
+        "id": "node_242",
+        "risk_score": 48.0,
+        "water_level_m": 1.75,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13315,
+          12.92112
+        ]
+      },
+      "properties": {
+        "id": "node_243",
+        "risk_score": 50.0,
+        "water_level_m": 1.92,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14544,
+          12.923
+        ]
+      },
+      "properties": {
+        "id": "node_244",
+        "risk_score": 51.5,
+        "water_level_m": 1.94,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11436,
+          12.93605
+        ]
+      },
+      "properties": {
+        "id": "node_245",
+        "risk_score": 55.0,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13717,
+          12.88558
+        ]
+      },
+      "properties": {
+        "id": "node_246",
+        "risk_score": 53.5,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11362,
+          12.88349
+        ]
+      },
+      "properties": {
+        "id": "node_247",
+        "risk_score": 45.0,
+        "water_level_m": 1.62,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11721,
+          12.92955
+        ]
+      },
+      "properties": {
+        "id": "node_248",
+        "risk_score": 50.0,
+        "water_level_m": 1.77,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09733,
+          12.92392
+        ]
+      },
+      "properties": {
+        "id": "node_249",
+        "risk_score": 52.0,
+        "water_level_m": 1.87,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10942,
+          12.92276
+        ]
+      },
+      "properties": {
+        "id": "node_250",
+        "risk_score": 47.5,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09871,
+          12.92516
+        ]
+      },
+      "properties": {
+        "id": "node_251",
+        "risk_score": 49.0,
+        "water_level_m": 1.9,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1081,
+          12.8995
+        ]
+      },
+      "properties": {
+        "id": "node_252",
+        "risk_score": 54.5,
+        "water_level_m": 2.21,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15884,
+          12.92231
+        ]
+      },
+      "properties": {
+        "id": "node_253",
+        "risk_score": 53.5,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10877,
+          12.92383
+        ]
+      },
+      "properties": {
+        "id": "node_254",
+        "risk_score": 52.5,
+        "water_level_m": 1.94,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.19831,
+          12.89864
+        ]
+      },
+      "properties": {
+        "id": "node_255",
+        "risk_score": 55.0,
+        "water_level_m": 2.09,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14483,
+          12.96314
+        ]
+      },
+      "properties": {
+        "id": "node_256",
+        "risk_score": 44.5,
+        "water_level_m": 1.72,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13712,
+          12.92835
+        ]
+      },
+      "properties": {
+        "id": "node_257",
+        "risk_score": 50.5,
+        "water_level_m": 1.82,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11104,
+          12.88672
+        ]
+      },
+      "properties": {
+        "id": "node_258",
+        "risk_score": 49.5,
+        "water_level_m": 1.94,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15001,
+          12.93291
+        ]
+      },
+      "properties": {
+        "id": "node_259",
+        "risk_score": 48.0,
+        "water_level_m": 1.76,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11811,
+          12.89213
+        ]
+      },
+      "properties": {
+        "id": "node_260",
+        "risk_score": 45.5,
+        "water_level_m": 1.8,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13555,
+          12.93618
+        ]
+      },
+      "properties": {
+        "id": "node_261",
+        "risk_score": 48.0,
+        "water_level_m": 1.9,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1965,
+          12.94546
+        ]
+      },
+      "properties": {
+        "id": "node_262",
+        "risk_score": 54.0,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1301,
+          12.89598
+        ]
+      },
+      "properties": {
+        "id": "node_263",
+        "risk_score": 48.0,
+        "water_level_m": 1.72,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16123,
+          12.94058
+        ]
+      },
+      "properties": {
+        "id": "node_264",
+        "risk_score": 52.5,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11492,
+          12.92682
+        ]
+      },
+      "properties": {
+        "id": "node_265",
+        "risk_score": 53.5,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13163,
+          12.93705
+        ]
+      },
+      "properties": {
+        "id": "node_266",
+        "risk_score": 44.0,
+        "water_level_m": 1.58,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17677,
+          12.96392
+        ]
+      },
+      "properties": {
+        "id": "node_267",
+        "risk_score": 49.0,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11683,
+          12.91037
+        ]
+      },
+      "properties": {
+        "id": "node_268",
+        "risk_score": 45.5,
+        "water_level_m": 1.63,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17781,
+          12.89766
+        ]
+      },
+      "properties": {
+        "id": "node_269",
+        "risk_score": 42.5,
+        "water_level_m": 1.73,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15019,
+          12.89426
+        ]
+      },
+      "properties": {
+        "id": "node_270",
+        "risk_score": 48.0,
+        "water_level_m": 2.0,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11844,
+          12.8961
+        ]
+      },
+      "properties": {
+        "id": "node_271",
+        "risk_score": 55.5,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14831,
+          12.91457
+        ]
+      },
+      "properties": {
+        "id": "node_272",
+        "risk_score": 53.5,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15681,
+          12.92503
+        ]
+      },
+      "properties": {
+        "id": "node_273",
+        "risk_score": 49.0,
+        "water_level_m": 1.77,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14805,
+          12.92342
+        ]
+      },
+      "properties": {
+        "id": "node_274",
+        "risk_score": 54.5,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09324,
+          12.93718
+        ]
+      },
+      "properties": {
+        "id": "node_275",
+        "risk_score": 55.5,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11432,
+          12.91683
+        ]
+      },
+      "properties": {
+        "id": "node_276",
+        "risk_score": 54.0,
+        "water_level_m": 2.11,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12631,
+          12.95284
+        ]
+      },
+      "properties": {
+        "id": "node_277",
+        "risk_score": 55.5,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13064,
+          12.90988
+        ]
+      },
+      "properties": {
+        "id": "node_278",
+        "risk_score": 42.0,
+        "water_level_m": 1.65,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14802,
+          12.9845
+        ]
+      },
+      "properties": {
+        "id": "node_279",
+        "risk_score": 59.0,
+        "water_level_m": 2.37,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13694,
+          12.93214
+        ]
+      },
+      "properties": {
+        "id": "node_280",
+        "risk_score": 51.5,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09912,
+          12.89507
+        ]
+      },
+      "properties": {
+        "id": "node_281",
+        "risk_score": 58.0,
+        "water_level_m": 2.22,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.142,
+          12.88973
+        ]
+      },
+      "properties": {
+        "id": "node_282",
+        "risk_score": 53.5,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14776,
+          12.92856
+        ]
+      },
+      "properties": {
+        "id": "node_283",
+        "risk_score": 58.5,
+        "water_level_m": 2.24,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14649,
+          12.91091
+        ]
+      },
+      "properties": {
+        "id": "node_284",
+        "risk_score": 44.5,
+        "water_level_m": 1.74,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15952,
+          12.93435
+        ]
+      },
+      "properties": {
+        "id": "node_285",
+        "risk_score": 56.0,
+        "water_level_m": 2.09,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15335,
+          12.92833
+        ]
+      },
+      "properties": {
+        "id": "node_286",
+        "risk_score": 59.0,
+        "water_level_m": 2.11,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14398,
+          12.91468
+        ]
+      },
+      "properties": {
+        "id": "node_287",
+        "risk_score": 45.5,
+        "water_level_m": 1.88,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13075,
+          12.89533
+        ]
+      },
+      "properties": {
+        "id": "node_288",
+        "risk_score": 54.0,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09098,
+          12.87863
+        ]
+      },
+      "properties": {
+        "id": "node_289",
+        "risk_score": 56.5,
+        "water_level_m": 2.04,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14324,
+          12.90534
+        ]
+      },
+      "properties": {
+        "id": "node_290",
+        "risk_score": 54.5,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13769,
+          12.93791
+        ]
+      },
+      "properties": {
+        "id": "node_291",
+        "risk_score": 49.5,
+        "water_level_m": 1.87,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13929,
+          12.92185
+        ]
+      },
+      "properties": {
+        "id": "node_292",
+        "risk_score": 55.0,
+        "water_level_m": 2.18,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10058,
+          12.88536
+        ]
+      },
+      "properties": {
+        "id": "node_293",
+        "risk_score": 51.5,
+        "water_level_m": 2.04,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10547,
+          12.92083
+        ]
+      },
+      "properties": {
+        "id": "node_294",
+        "risk_score": 55.5,
+        "water_level_m": 2.18,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15883,
+          12.92613
+        ]
+      },
+      "properties": {
+        "id": "node_295",
+        "risk_score": 52.0,
+        "water_level_m": 1.84,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13151,
+          12.8944
+        ]
+      },
+      "properties": {
+        "id": "node_296",
+        "risk_score": 52.5,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14954,
+          12.92034
+        ]
+      },
+      "properties": {
+        "id": "node_297",
+        "risk_score": 48.0,
+        "water_level_m": 1.84,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13321,
+          12.91796
+        ]
+      },
+      "properties": {
+        "id": "node_298",
+        "risk_score": 47.0,
+        "water_level_m": 1.67,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13324,
+          12.88793
+        ]
+      },
+      "properties": {
+        "id": "node_299",
+        "risk_score": 48.5,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15596,
+          12.92544
+        ]
+      },
+      "properties": {
+        "id": "node_300",
+        "risk_score": 47.0,
+        "water_level_m": 1.89,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1196,
+          12.93052
+        ]
+      },
+      "properties": {
+        "id": "node_301",
+        "risk_score": 52.0,
+        "water_level_m": 1.87,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1349,
+          12.94358
+        ]
+      },
+      "properties": {
+        "id": "node_302",
+        "risk_score": 55.0,
+        "water_level_m": 2.09,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12094,
+          12.94285
+        ]
+      },
+      "properties": {
+        "id": "node_303",
+        "risk_score": 41.5,
+        "water_level_m": 1.55,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12164,
+          12.88206
+        ]
+      },
+      "properties": {
+        "id": "node_304",
+        "risk_score": 55.5,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12477,
+          12.89305
+        ]
+      },
+      "properties": {
+        "id": "node_305",
+        "risk_score": 50.5,
+        "water_level_m": 1.86,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13805,
+          12.92938
+        ]
+      },
+      "properties": {
+        "id": "node_306",
+        "risk_score": 58.0,
+        "water_level_m": 2.33,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12053,
+          12.92934
+        ]
+      },
+      "properties": {
+        "id": "node_307",
+        "risk_score": 50.5,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16389,
+          12.92938
+        ]
+      },
+      "properties": {
+        "id": "node_308",
+        "risk_score": 56.0,
+        "water_level_m": 2.25,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11013,
+          13.01282
+        ]
+      },
+      "properties": {
+        "id": "node_309",
+        "risk_score": 54.5,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12783,
+          12.93077
+        ]
+      },
+      "properties": {
+        "id": "node_310",
+        "risk_score": 59.5,
+        "water_level_m": 2.12,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12151,
+          12.94489
+        ]
+      },
+      "properties": {
+        "id": "node_311",
+        "risk_score": 54.0,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16867,
+          12.94035
+        ]
+      },
+      "properties": {
+        "id": "node_312",
+        "risk_score": 46.0,
+        "water_level_m": 1.77,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13741,
+          12.93278
+        ]
+      },
+      "properties": {
+        "id": "node_313",
+        "risk_score": 49.0,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1583,
+          12.90862
+        ]
+      },
+      "properties": {
+        "id": "node_314",
+        "risk_score": 47.5,
+        "water_level_m": 1.71,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09536,
+          12.93547
+        ]
+      },
+      "properties": {
+        "id": "node_315",
+        "risk_score": 58.5,
+        "water_level_m": 2.2,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13918,
+          12.89718
+        ]
+      },
+      "properties": {
+        "id": "node_316",
+        "risk_score": 51.5,
+        "water_level_m": 1.86,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15474,
+          12.91058
+        ]
+      },
+      "properties": {
+        "id": "node_317",
+        "risk_score": 55.5,
+        "water_level_m": 2.05,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13456,
+          12.90437
+        ]
+      },
+      "properties": {
+        "id": "node_318",
+        "risk_score": 54.5,
+        "water_level_m": 2.14,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15914,
+          12.91855
+        ]
+      },
+      "properties": {
+        "id": "node_319",
+        "risk_score": 52.0,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11957,
+          12.97437
+        ]
+      },
+      "properties": {
+        "id": "node_320",
+        "risk_score": 46.0,
+        "water_level_m": 1.75,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16773,
+          12.86982
+        ]
+      },
+      "properties": {
+        "id": "node_321",
+        "risk_score": 45.5,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18997,
+          12.93366
+        ]
+      },
+      "properties": {
+        "id": "node_322",
+        "risk_score": 52.0,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12343,
+          12.87618
+        ]
+      },
+      "properties": {
+        "id": "node_323",
+        "risk_score": 49.0,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12136,
+          12.9047
+        ]
+      },
+      "properties": {
+        "id": "node_324",
+        "risk_score": 50.0,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16883,
+          12.94372
+        ]
+      },
+      "properties": {
+        "id": "node_325",
+        "risk_score": 48.0,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17199,
+          12.91811
+        ]
+      },
+      "properties": {
+        "id": "node_326",
+        "risk_score": 39.0,
+        "water_level_m": 1.64,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11943,
+          12.88956
+        ]
+      },
+      "properties": {
+        "id": "node_327",
+        "risk_score": 47.5,
+        "water_level_m": 1.78,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.122,
+          12.89862
+        ]
+      },
+      "properties": {
+        "id": "node_328",
+        "risk_score": 51.5,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12546,
+          12.93349
+        ]
+      },
+      "properties": {
+        "id": "node_329",
+        "risk_score": 54.0,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09889,
+          12.89824
+        ]
+      },
+      "properties": {
+        "id": "node_330",
+        "risk_score": 55.0,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10953,
+          12.92191
+        ]
+      },
+      "properties": {
+        "id": "node_331",
+        "risk_score": 44.5,
+        "water_level_m": 1.84,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1074,
+          12.91764
+        ]
+      },
+      "properties": {
+        "id": "node_332",
+        "risk_score": 57.0,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11331,
+          12.90021
+        ]
+      },
+      "properties": {
+        "id": "node_333",
+        "risk_score": 46.0,
+        "water_level_m": 1.9,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13163,
+          12.9701
+        ]
+      },
+      "properties": {
+        "id": "node_334",
+        "risk_score": 56.5,
+        "water_level_m": 2.12,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13836,
+          12.93235
+        ]
+      },
+      "properties": {
+        "id": "node_335",
+        "risk_score": 47.5,
+        "water_level_m": 1.87,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17126,
+          12.86587
+        ]
+      },
+      "properties": {
+        "id": "node_336",
+        "risk_score": 57.5,
+        "water_level_m": 2.21,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10754,
+          12.92116
+        ]
+      },
+      "properties": {
+        "id": "node_337",
+        "risk_score": 52.5,
+        "water_level_m": 2.12,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15711,
+          12.89996
+        ]
+      },
+      "properties": {
+        "id": "node_338",
+        "risk_score": 48.5,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12715,
+          12.93781
+        ]
+      },
+      "properties": {
+        "id": "node_339",
+        "risk_score": 53.5,
+        "water_level_m": 2.07,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13126,
+          12.89669
+        ]
+      },
+      "properties": {
+        "id": "node_340",
+        "risk_score": 61.0,
+        "water_level_m": 2.15,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14937,
+          12.91363
+        ]
+      },
+      "properties": {
+        "id": "node_341",
+        "risk_score": 46.5,
+        "water_level_m": 1.81,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10443,
+          12.92912
+        ]
+      },
+      "properties": {
+        "id": "node_342",
+        "risk_score": 45.5,
+        "water_level_m": 1.66,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14206,
+          12.93814
+        ]
+      },
+      "properties": {
+        "id": "node_343",
+        "risk_score": 53.5,
+        "water_level_m": 2.1,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13666,
+          12.88649
+        ]
+      },
+      "properties": {
+        "id": "node_344",
+        "risk_score": 50.0,
+        "water_level_m": 1.92,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14481,
+          12.90814
+        ]
+      },
+      "properties": {
+        "id": "node_345",
+        "risk_score": 52.5,
+        "water_level_m": 2.05,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13973,
+          12.90463
+        ]
+      },
+      "properties": {
+        "id": "node_346",
+        "risk_score": 48.5,
+        "water_level_m": 1.73,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.19388,
+          12.90017
+        ]
+      },
+      "properties": {
+        "id": "node_347",
+        "risk_score": 46.0,
+        "water_level_m": 1.66,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11656,
+          12.96064
+        ]
+      },
+      "properties": {
+        "id": "node_348",
+        "risk_score": 44.5,
+        "water_level_m": 1.8,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11923,
+          12.92662
+        ]
+      },
+      "properties": {
+        "id": "node_349",
+        "risk_score": 44.5,
+        "water_level_m": 1.6,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11692,
+          12.88498
+        ]
+      },
+      "properties": {
+        "id": "node_350",
+        "risk_score": 50.5,
+        "water_level_m": 1.8,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11861,
+          12.93945
+        ]
+      },
+      "properties": {
+        "id": "node_351",
+        "risk_score": 49.5,
+        "water_level_m": 1.75,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11657,
+          12.96955
+        ]
+      },
+      "properties": {
+        "id": "node_352",
+        "risk_score": 57.0,
+        "water_level_m": 2.29,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16223,
+          12.94231
+        ]
+      },
+      "properties": {
+        "id": "node_353",
+        "risk_score": 55.5,
+        "water_level_m": 2.17,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16801,
+          12.87852
+        ]
+      },
+      "properties": {
+        "id": "node_354",
+        "risk_score": 49.5,
+        "water_level_m": 1.86,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11823,
+          12.90439
+        ]
+      },
+      "properties": {
+        "id": "node_355",
+        "risk_score": 46.5,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11169,
+          12.94817
+        ]
+      },
+      "properties": {
+        "id": "node_356",
+        "risk_score": 62.5,
+        "water_level_m": 2.29,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14429,
+          12.89881
+        ]
+      },
+      "properties": {
+        "id": "node_357",
+        "risk_score": 52.5,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11869,
+          12.9276
+        ]
+      },
+      "properties": {
+        "id": "node_358",
+        "risk_score": 53.5,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14832,
+          12.93587
+        ]
+      },
+      "properties": {
+        "id": "node_359",
+        "risk_score": 55.0,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13757,
+          12.89333
+        ]
+      },
+      "properties": {
+        "id": "node_360",
+        "risk_score": 50.0,
+        "water_level_m": 1.82,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09461,
+          12.91501
+        ]
+      },
+      "properties": {
+        "id": "node_361",
+        "risk_score": 60.5,
+        "water_level_m": 2.15,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17119,
+          12.83547
+        ]
+      },
+      "properties": {
+        "id": "node_362",
+        "risk_score": 53.0,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1774,
+          12.89089
+        ]
+      },
+      "properties": {
+        "id": "node_363",
+        "risk_score": 45.0,
+        "water_level_m": 1.83,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11718,
+          12.91019
+        ]
+      },
+      "properties": {
+        "id": "node_364",
+        "risk_score": 48.0,
+        "water_level_m": 1.78,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12281,
+          12.88531
+        ]
+      },
+      "properties": {
+        "id": "node_365",
+        "risk_score": 49.0,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13965,
+          12.95731
+        ]
+      },
+      "properties": {
+        "id": "node_366",
+        "risk_score": 47.5,
+        "water_level_m": 1.71,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14086,
+          12.88075
+        ]
+      },
+      "properties": {
+        "id": "node_367",
+        "risk_score": 50.0,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14896,
+          12.9055
+        ]
+      },
+      "properties": {
+        "id": "node_368",
+        "risk_score": 57.0,
+        "water_level_m": 2.09,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18276,
+          12.91977
+        ]
+      },
+      "properties": {
+        "id": "node_369",
+        "risk_score": 56.5,
+        "water_level_m": 2.21,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12808,
+          12.95253
+        ]
+      },
+      "properties": {
+        "id": "node_370",
+        "risk_score": 58.0,
+        "water_level_m": 2.22,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11254,
+          12.8806
+        ]
+      },
+      "properties": {
+        "id": "node_371",
+        "risk_score": 48.5,
+        "water_level_m": 1.83,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09802,
+          12.94558
+        ]
+      },
+      "properties": {
+        "id": "node_372",
+        "risk_score": 44.5,
+        "water_level_m": 1.65,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11423,
+          12.91676
+        ]
+      },
+      "properties": {
+        "id": "node_373",
+        "risk_score": 53.5,
+        "water_level_m": 1.92,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13167,
+          12.89196
+        ]
+      },
+      "properties": {
+        "id": "node_374",
+        "risk_score": 33.0,
+        "water_level_m": 1.38,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17736,
+          12.92805
+        ]
+      },
+      "properties": {
+        "id": "node_375",
+        "risk_score": 48.0,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11956,
+          12.92148
+        ]
+      },
+      "properties": {
+        "id": "node_376",
+        "risk_score": 58.0,
+        "water_level_m": 2.23,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13809,
+          12.90149
+        ]
+      },
+      "properties": {
+        "id": "node_377",
+        "risk_score": 53.0,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13209,
+          12.91825
+        ]
+      },
+      "properties": {
+        "id": "node_378",
+        "risk_score": 57.5,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16221,
+          12.90687
+        ]
+      },
+      "properties": {
+        "id": "node_379",
+        "risk_score": 48.5,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.19567,
+          12.91934
+        ]
+      },
+      "properties": {
+        "id": "node_380",
+        "risk_score": 45.5,
+        "water_level_m": 1.86,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11923,
+          12.93305
+        ]
+      },
+      "properties": {
+        "id": "node_381",
+        "risk_score": 52.0,
+        "water_level_m": 1.92,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12026,
+          12.95615
+        ]
+      },
+      "properties": {
+        "id": "node_382",
+        "risk_score": 50.0,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1586,
+          12.88555
+        ]
+      },
+      "properties": {
+        "id": "node_383",
+        "risk_score": 43.0,
+        "water_level_m": 1.71,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14955,
+          12.96983
+        ]
+      },
+      "properties": {
+        "id": "node_384",
+        "risk_score": 46.0,
+        "water_level_m": 1.81,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17867,
+          12.8677
+        ]
+      },
+      "properties": {
+        "id": "node_385",
+        "risk_score": 47.0,
+        "water_level_m": 1.89,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1471,
+          12.91271
+        ]
+      },
+      "properties": {
+        "id": "node_386",
+        "risk_score": 46.5,
+        "water_level_m": 1.89,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12352,
+          12.93121
+        ]
+      },
+      "properties": {
+        "id": "node_387",
+        "risk_score": 43.5,
+        "water_level_m": 1.75,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14727,
+          12.92352
+        ]
+      },
+      "properties": {
+        "id": "node_388",
+        "risk_score": 49.5,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16022,
+          12.90093
+        ]
+      },
+      "properties": {
+        "id": "node_389",
+        "risk_score": 56.0,
+        "water_level_m": 2.07,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15301,
+          12.9113
+        ]
+      },
+      "properties": {
+        "id": "node_390",
+        "risk_score": 42.0,
+        "water_level_m": 1.78,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14518,
+          12.90417
+        ]
+      },
+      "properties": {
+        "id": "node_391",
+        "risk_score": 46.5,
+        "water_level_m": 1.72,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15917,
+          12.90177
+        ]
+      },
+      "properties": {
+        "id": "node_392",
+        "risk_score": 46.5,
+        "water_level_m": 1.76,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16173,
+          12.93774
+        ]
+      },
+      "properties": {
+        "id": "node_393",
+        "risk_score": 48.0,
+        "water_level_m": 1.83,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16705,
+          12.92543
+        ]
+      },
+      "properties": {
+        "id": "node_394",
+        "risk_score": 56.0,
+        "water_level_m": 2.1,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14872,
+          12.89918
+        ]
+      },
+      "properties": {
+        "id": "node_395",
+        "risk_score": 43.0,
+        "water_level_m": 1.72,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12832,
+          12.93899
+        ]
+      },
+      "properties": {
+        "id": "node_396",
+        "risk_score": 47.0,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13617,
+          12.92418
+        ]
+      },
+      "properties": {
+        "id": "node_397",
+        "risk_score": 53.5,
+        "water_level_m": 1.96,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16266,
+          12.93682
+        ]
+      },
+      "properties": {
+        "id": "node_398",
+        "risk_score": 56.0,
+        "water_level_m": 2.0,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11208,
+          12.93224
+        ]
+      },
+      "properties": {
+        "id": "node_399",
+        "risk_score": 43.0,
+        "water_level_m": 1.59,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14172,
+          12.89578
+        ]
+      },
+      "properties": {
+        "id": "node_400",
+        "risk_score": 55.5,
+        "water_level_m": 2.22,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12267,
+          12.9025
+        ]
+      },
+      "properties": {
+        "id": "node_401",
+        "risk_score": 50.0,
+        "water_level_m": 1.96,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13322,
+          12.93518
+        ]
+      },
+      "properties": {
+        "id": "node_402",
+        "risk_score": 52.0,
+        "water_level_m": 1.92,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16446,
+          12.93176
+        ]
+      },
+      "properties": {
+        "id": "node_403",
+        "risk_score": 49.5,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13728,
+          12.91598
+        ]
+      },
+      "properties": {
+        "id": "node_404",
+        "risk_score": 53.0,
+        "water_level_m": 2.13,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13366,
+          12.91943
+        ]
+      },
+      "properties": {
+        "id": "node_405",
+        "risk_score": 43.0,
+        "water_level_m": 1.79,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0985,
+          12.94844
+        ]
+      },
+      "properties": {
+        "id": "node_406",
+        "risk_score": 48.5,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15116,
+          12.90171
+        ]
+      },
+      "properties": {
+        "id": "node_407",
+        "risk_score": 49.5,
+        "water_level_m": 1.83,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14864,
+          12.93018
+        ]
+      },
+      "properties": {
+        "id": "node_408",
+        "risk_score": 53.5,
+        "water_level_m": 2.11,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18658,
+          12.91145
+        ]
+      },
+      "properties": {
+        "id": "node_409",
+        "risk_score": 48.5,
+        "water_level_m": 1.85,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12481,
+          12.91106
+        ]
+      },
+      "properties": {
+        "id": "node_410",
+        "risk_score": 60.5,
+        "water_level_m": 2.37,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13798,
+          12.94397
+        ]
+      },
+      "properties": {
+        "id": "node_411",
+        "risk_score": 44.0,
+        "water_level_m": 1.79,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13873,
+          12.93714
+        ]
+      },
+      "properties": {
+        "id": "node_412",
+        "risk_score": 55.0,
+        "water_level_m": 2.17,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17194,
+          12.93684
+        ]
+      },
+      "properties": {
+        "id": "node_413",
+        "risk_score": 53.5,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13012,
+          12.94914
+        ]
+      },
+      "properties": {
+        "id": "node_414",
+        "risk_score": 46.5,
+        "water_level_m": 1.7,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13948,
+          12.91703
+        ]
+      },
+      "properties": {
+        "id": "node_415",
+        "risk_score": 53.5,
+        "water_level_m": 2.05,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1477,
+          12.93355
+        ]
+      },
+      "properties": {
+        "id": "node_416",
+        "risk_score": 49.5,
+        "water_level_m": 2.05,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13717,
+          12.90874
+        ]
+      },
+      "properties": {
+        "id": "node_417",
+        "risk_score": 47.0,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12134,
+          12.9246
+        ]
+      },
+      "properties": {
+        "id": "node_418",
+        "risk_score": 59.0,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13735,
+          12.91325
+        ]
+      },
+      "properties": {
+        "id": "node_419",
+        "risk_score": 55.5,
+        "water_level_m": 2.0,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15934,
+          12.91892
+        ]
+      },
+      "properties": {
+        "id": "node_420",
+        "risk_score": 47.5,
+        "water_level_m": 1.72,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10684,
+          12.93138
+        ]
+      },
+      "properties": {
+        "id": "node_421",
+        "risk_score": 52.5,
+        "water_level_m": 2.07,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13582,
+          12.89604
+        ]
+      },
+      "properties": {
+        "id": "node_422",
+        "risk_score": 47.0,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.115,
+          12.96881
+        ]
+      },
+      "properties": {
+        "id": "node_423",
+        "risk_score": 47.5,
+        "water_level_m": 1.75,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16238,
+          12.89135
+        ]
+      },
+      "properties": {
+        "id": "node_424",
+        "risk_score": 49.5,
+        "water_level_m": 1.9,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09442,
+          12.88615
+        ]
+      },
+      "properties": {
+        "id": "node_425",
+        "risk_score": 60.0,
+        "water_level_m": 2.35,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11853,
+          12.94545
+        ]
+      },
+      "properties": {
+        "id": "node_426",
+        "risk_score": 51.5,
+        "water_level_m": 2.04,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14193,
+          12.93629
+        ]
+      },
+      "properties": {
+        "id": "node_427",
+        "risk_score": 52.0,
+        "water_level_m": 2.0,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17164,
+          12.9321
+        ]
+      },
+      "properties": {
+        "id": "node_428",
+        "risk_score": 50.0,
+        "water_level_m": 1.94,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13086,
+          12.93221
+        ]
+      },
+      "properties": {
+        "id": "node_429",
+        "risk_score": 51.5,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11862,
+          12.91619
+        ]
+      },
+      "properties": {
+        "id": "node_430",
+        "risk_score": 45.0,
+        "water_level_m": 1.69,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17953,
+          12.89407
+        ]
+      },
+      "properties": {
+        "id": "node_431",
+        "risk_score": 40.0,
+        "water_level_m": 1.6,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0963,
+          12.9184
+        ]
+      },
+      "properties": {
+        "id": "node_432",
+        "risk_score": 55.0,
+        "water_level_m": 2.14,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.07753,
+          12.89957
+        ]
+      },
+      "properties": {
+        "id": "node_433",
+        "risk_score": 49.5,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1435,
+          12.94088
+        ]
+      },
+      "properties": {
+        "id": "node_434",
+        "risk_score": 48.0,
+        "water_level_m": 1.89,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11995,
+          12.91282
+        ]
+      },
+      "properties": {
+        "id": "node_435",
+        "risk_score": 40.0,
+        "water_level_m": 1.66,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10697,
+          12.89586
+        ]
+      },
+      "properties": {
+        "id": "node_436",
+        "risk_score": 49.0,
+        "water_level_m": 1.78,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15021,
+          12.90847
+        ]
+      },
+      "properties": {
+        "id": "node_437",
+        "risk_score": 58.5,
+        "water_level_m": 2.19,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1386,
+          12.92682
+        ]
+      },
+      "properties": {
+        "id": "node_438",
+        "risk_score": 55.0,
+        "water_level_m": 1.94,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1184,
+          12.90241
+        ]
+      },
+      "properties": {
+        "id": "node_439",
+        "risk_score": 61.0,
+        "water_level_m": 2.21,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10049,
+          12.89594
+        ]
+      },
+      "properties": {
+        "id": "node_440",
+        "risk_score": 60.0,
+        "water_level_m": 2.32,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15431,
+          12.92259
+        ]
+      },
+      "properties": {
+        "id": "node_441",
+        "risk_score": 40.5,
+        "water_level_m": 1.75,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14876,
+          12.92262
+        ]
+      },
+      "properties": {
+        "id": "node_442",
+        "risk_score": 54.0,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13002,
+          12.90383
+        ]
+      },
+      "properties": {
+        "id": "node_443",
+        "risk_score": 55.0,
+        "water_level_m": 2.05,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17867,
+          12.90472
+        ]
+      },
+      "properties": {
+        "id": "node_444",
+        "risk_score": 47.5,
+        "water_level_m": 1.92,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10575,
+          12.9223
+        ]
+      },
+      "properties": {
+        "id": "node_445",
+        "risk_score": 50.0,
+        "water_level_m": 1.83,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09436,
+          12.8803
+        ]
+      },
+      "properties": {
+        "id": "node_446",
+        "risk_score": 52.0,
+        "water_level_m": 2.0,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1152,
+          12.88131
+        ]
+      },
+      "properties": {
+        "id": "node_447",
+        "risk_score": 53.5,
+        "water_level_m": 2.1,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13136,
+          12.89854
+        ]
+      },
+      "properties": {
+        "id": "node_448",
+        "risk_score": 55.0,
+        "water_level_m": 2.12,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13858,
+          12.91116
+        ]
+      },
+      "properties": {
+        "id": "node_449",
+        "risk_score": 50.0,
+        "water_level_m": 1.82,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12647,
+          12.92427
+        ]
+      },
+      "properties": {
+        "id": "node_450",
+        "risk_score": 51.0,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1413,
+          12.95338
+        ]
+      },
+      "properties": {
+        "id": "node_451",
+        "risk_score": 58.0,
+        "water_level_m": 2.27,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10121,
+          12.93794
+        ]
+      },
+      "properties": {
+        "id": "node_452",
+        "risk_score": 51.0,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16859,
+          12.9125
+        ]
+      },
+      "properties": {
+        "id": "node_453",
+        "risk_score": 48.0,
+        "water_level_m": 1.7,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13045,
+          12.91602
+        ]
+      },
+      "properties": {
+        "id": "node_454",
+        "risk_score": 44.0,
+        "water_level_m": 1.79,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16043,
+          12.89144
+        ]
+      },
+      "properties": {
+        "id": "node_455",
+        "risk_score": 51.0,
+        "water_level_m": 1.81,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14107,
+          12.91604
+        ]
+      },
+      "properties": {
+        "id": "node_456",
+        "risk_score": 47.5,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14392,
+          12.90928
+        ]
+      },
+      "properties": {
+        "id": "node_457",
+        "risk_score": 53.0,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14674,
+          12.92457
+        ]
+      },
+      "properties": {
+        "id": "node_458",
+        "risk_score": 50.0,
+        "water_level_m": 2.05,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14369,
+          12.89582
+        ]
+      },
+      "properties": {
+        "id": "node_459",
+        "risk_score": 46.0,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14857,
+          12.92948
+        ]
+      },
+      "properties": {
+        "id": "node_460",
+        "risk_score": 50.5,
+        "water_level_m": 1.88,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16573,
+          12.95482
+        ]
+      },
+      "properties": {
+        "id": "node_461",
+        "risk_score": 41.5,
+        "water_level_m": 1.53,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13741,
+          12.91378
+        ]
+      },
+      "properties": {
+        "id": "node_462",
+        "risk_score": 53.0,
+        "water_level_m": 1.96,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15023,
+          12.92654
+        ]
+      },
+      "properties": {
+        "id": "node_463",
+        "risk_score": 53.0,
+        "water_level_m": 2.13,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13026,
+          12.93375
+        ]
+      },
+      "properties": {
+        "id": "node_464",
+        "risk_score": 55.5,
+        "water_level_m": 2.25,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1685,
+          12.90647
+        ]
+      },
+      "properties": {
+        "id": "node_465",
+        "risk_score": 56.0,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11559,
+          12.9221
+        ]
+      },
+      "properties": {
+        "id": "node_466",
+        "risk_score": 47.0,
+        "water_level_m": 1.8,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17752,
+          12.91681
+        ]
+      },
+      "properties": {
+        "id": "node_467",
+        "risk_score": 54.5,
+        "water_level_m": 2.13,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1315,
+          12.91894
+        ]
+      },
+      "properties": {
+        "id": "node_468",
+        "risk_score": 48.5,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09673,
+          12.89717
+        ]
+      },
+      "properties": {
+        "id": "node_469",
+        "risk_score": 47.0,
+        "water_level_m": 1.84,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1357,
+          12.91711
+        ]
+      },
+      "properties": {
+        "id": "node_470",
+        "risk_score": 56.5,
+        "water_level_m": 2.1,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11547,
+          12.92895
+        ]
+      },
+      "properties": {
+        "id": "node_471",
+        "risk_score": 45.5,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15352,
+          12.95278
+        ]
+      },
+      "properties": {
+        "id": "node_472",
+        "risk_score": 52.5,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11618,
+          12.94048
+        ]
+      },
+      "properties": {
+        "id": "node_473",
+        "risk_score": 50.5,
+        "water_level_m": 1.78,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12135,
+          12.97033
+        ]
+      },
+      "properties": {
+        "id": "node_474",
+        "risk_score": 55.0,
+        "water_level_m": 2.12,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.08526,
+          12.89732
+        ]
+      },
+      "properties": {
+        "id": "node_475",
+        "risk_score": 50.5,
+        "water_level_m": 1.89,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12119,
+          12.93831
+        ]
+      },
+      "properties": {
+        "id": "node_476",
+        "risk_score": 46.0,
+        "water_level_m": 1.87,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0719,
+          12.92108
+        ]
+      },
+      "properties": {
+        "id": "node_477",
+        "risk_score": 47.5,
+        "water_level_m": 1.71,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0929,
+          12.97125
+        ]
+      },
+      "properties": {
+        "id": "node_478",
+        "risk_score": 45.5,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15151,
+          12.89629
+        ]
+      },
+      "properties": {
+        "id": "node_479",
+        "risk_score": 50.0,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15215,
+          12.89551
+        ]
+      },
+      "properties": {
+        "id": "node_480",
+        "risk_score": 49.0,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14314,
+          12.90152
+        ]
+      },
+      "properties": {
+        "id": "node_481",
+        "risk_score": 50.5,
+        "water_level_m": 1.8,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10833,
+          12.8634
+        ]
+      },
+      "properties": {
+        "id": "node_482",
+        "risk_score": 51.5,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13131,
+          12.90336
+        ]
+      },
+      "properties": {
+        "id": "node_483",
+        "risk_score": 48.0,
+        "water_level_m": 1.87,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13241,
+          12.89752
+        ]
+      },
+      "properties": {
+        "id": "node_484",
+        "risk_score": 44.0,
+        "water_level_m": 1.73,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10354,
+          12.92026
+        ]
+      },
+      "properties": {
+        "id": "node_485",
+        "risk_score": 47.5,
+        "water_level_m": 1.86,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17008,
+          12.92504
+        ]
+      },
+      "properties": {
+        "id": "node_486",
+        "risk_score": 43.0,
+        "water_level_m": 1.74,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15443,
+          12.9634
+        ]
+      },
+      "properties": {
+        "id": "node_487",
+        "risk_score": 42.0,
+        "water_level_m": 1.74,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12698,
+          12.94026
+        ]
+      },
+      "properties": {
+        "id": "node_488",
+        "risk_score": 49.5,
+        "water_level_m": 1.83,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13317,
+          12.90208
+        ]
+      },
+      "properties": {
+        "id": "node_489",
+        "risk_score": 49.5,
+        "water_level_m": 2.0,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13771,
+          12.89404
+        ]
+      },
+      "properties": {
+        "id": "node_490",
+        "risk_score": 60.0,
+        "water_level_m": 2.25,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.08146,
+          12.9288
+        ]
+      },
+      "properties": {
+        "id": "node_491",
+        "risk_score": 51.0,
+        "water_level_m": 1.82,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12632,
+          12.88349
+        ]
+      },
+      "properties": {
+        "id": "node_492",
+        "risk_score": 49.0,
+        "water_level_m": 1.75,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11545,
+          12.96229
+        ]
+      },
+      "properties": {
+        "id": "node_493",
+        "risk_score": 53.0,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10746,
+          12.94599
+        ]
+      },
+      "properties": {
+        "id": "node_494",
+        "risk_score": 41.5,
+        "water_level_m": 1.72,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12547,
+          12.90477
+        ]
+      },
+      "properties": {
+        "id": "node_495",
+        "risk_score": 54.5,
+        "water_level_m": 2.13,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17744,
+          12.87367
+        ]
+      },
+      "properties": {
+        "id": "node_496",
+        "risk_score": 41.0,
+        "water_level_m": 1.7,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14852,
+          12.95035
+        ]
+      },
+      "properties": {
+        "id": "node_497",
+        "risk_score": 50.0,
+        "water_level_m": 1.92,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11822,
+          12.91364
+        ]
+      },
+      "properties": {
+        "id": "node_498",
+        "risk_score": 59.0,
+        "water_level_m": 2.2,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14681,
+          12.94745
+        ]
+      },
+      "properties": {
+        "id": "node_499",
+        "risk_score": 54.5,
+        "water_level_m": 1.96,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16748,
+          12.87664
+        ]
+      },
+      "properties": {
+        "id": "node_500",
+        "risk_score": 53.5,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15562,
+          12.90152
+        ]
+      },
+      "properties": {
+        "id": "node_501",
+        "risk_score": 58.0,
+        "water_level_m": 2.16,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13399,
+          12.91663
+        ]
+      },
+      "properties": {
+        "id": "node_502",
+        "risk_score": 50.0,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11633,
+          12.91767
+        ]
+      },
+      "properties": {
+        "id": "node_503",
+        "risk_score": 54.5,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14996,
+          12.90525
+        ]
+      },
+      "properties": {
+        "id": "node_504",
+        "risk_score": 52.5,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14234,
+          12.93207
+        ]
+      },
+      "properties": {
+        "id": "node_505",
+        "risk_score": 56.0,
+        "water_level_m": 2.19,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15488,
+          12.88981
+        ]
+      },
+      "properties": {
+        "id": "node_506",
+        "risk_score": 53.5,
+        "water_level_m": 2.18,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14838,
+          12.91294
+        ]
+      },
+      "properties": {
+        "id": "node_507",
+        "risk_score": 54.5,
+        "water_level_m": 2.2,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15874,
+          12.91951
+        ]
+      },
+      "properties": {
+        "id": "node_508",
+        "risk_score": 54.0,
+        "water_level_m": 2.09,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11912,
+          12.92936
+        ]
+      },
+      "properties": {
+        "id": "node_509",
+        "risk_score": 53.5,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16543,
+          12.93429
+        ]
+      },
+      "properties": {
+        "id": "node_510",
+        "risk_score": 51.5,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13744,
+          12.88838
+        ]
+      },
+      "properties": {
+        "id": "node_511",
+        "risk_score": 47.5,
+        "water_level_m": 1.92,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18438,
+          12.87815
+        ]
+      },
+      "properties": {
+        "id": "node_512",
+        "risk_score": 50.5,
+        "water_level_m": 1.82,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11527,
+          12.94844
+        ]
+      },
+      "properties": {
+        "id": "node_513",
+        "risk_score": 60.5,
+        "water_level_m": 2.24,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1759,
+          12.92481
+        ]
+      },
+      "properties": {
+        "id": "node_514",
+        "risk_score": 44.0,
+        "water_level_m": 1.82,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13745,
+          12.89779
+        ]
+      },
+      "properties": {
+        "id": "node_515",
+        "risk_score": 48.5,
+        "water_level_m": 1.83,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11621,
+          12.95528
+        ]
+      },
+      "properties": {
+        "id": "node_516",
+        "risk_score": 45.5,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1204,
+          12.91939
+        ]
+      },
+      "properties": {
+        "id": "node_517",
+        "risk_score": 52.0,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12449,
+          12.94598
+        ]
+      },
+      "properties": {
+        "id": "node_518",
+        "risk_score": 46.0,
+        "water_level_m": 1.69,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1431,
+          12.91819
+        ]
+      },
+      "properties": {
+        "id": "node_519",
+        "risk_score": 48.5,
+        "water_level_m": 1.83,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14557,
+          12.96802
+        ]
+      },
+      "properties": {
+        "id": "node_520",
+        "risk_score": 54.5,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11816,
+          12.96038
+        ]
+      },
+      "properties": {
+        "id": "node_521",
+        "risk_score": 47.5,
+        "water_level_m": 1.69,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13189,
+          12.91028
+        ]
+      },
+      "properties": {
+        "id": "node_522",
+        "risk_score": 40.0,
+        "water_level_m": 1.44,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18606,
+          12.94079
+        ]
+      },
+      "properties": {
+        "id": "node_523",
+        "risk_score": 48.0,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17569,
+          12.93263
+        ]
+      },
+      "properties": {
+        "id": "node_524",
+        "risk_score": 53.0,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14341,
+          12.95072
+        ]
+      },
+      "properties": {
+        "id": "node_525",
+        "risk_score": 49.0,
+        "water_level_m": 1.89,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13345,
+          12.89238
+        ]
+      },
+      "properties": {
+        "id": "node_526",
+        "risk_score": 56.0,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1355,
+          12.93365
+        ]
+      },
+      "properties": {
+        "id": "node_527",
+        "risk_score": 56.5,
+        "water_level_m": 2.27,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14784,
+          12.94296
+        ]
+      },
+      "properties": {
+        "id": "node_528",
+        "risk_score": 42.5,
+        "water_level_m": 1.59,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10693,
+          12.87253
+        ]
+      },
+      "properties": {
+        "id": "node_529",
+        "risk_score": 52.5,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12607,
+          12.88692
+        ]
+      },
+      "properties": {
+        "id": "node_530",
+        "risk_score": 57.5,
+        "water_level_m": 2.28,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09079,
+          12.86552
+        ]
+      },
+      "properties": {
+        "id": "node_531",
+        "risk_score": 54.0,
+        "water_level_m": 2.15,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14248,
+          12.90976
+        ]
+      },
+      "properties": {
+        "id": "node_532",
+        "risk_score": 54.5,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14868,
+          12.93444
+        ]
+      },
+      "properties": {
+        "id": "node_533",
+        "risk_score": 62.5,
+        "water_level_m": 2.42,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12042,
+          12.95406
+        ]
+      },
+      "properties": {
+        "id": "node_534",
+        "risk_score": 43.0,
+        "water_level_m": 1.67,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17185,
+          12.91835
+        ]
+      },
+      "properties": {
+        "id": "node_535",
+        "risk_score": 45.5,
+        "water_level_m": 1.76,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10186,
+          12.95722
+        ]
+      },
+      "properties": {
+        "id": "node_536",
+        "risk_score": 48.0,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09589,
+          12.882
+        ]
+      },
+      "properties": {
+        "id": "node_537",
+        "risk_score": 45.0,
+        "water_level_m": 1.62,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13811,
+          12.87392
+        ]
+      },
+      "properties": {
+        "id": "node_538",
+        "risk_score": 50.0,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15868,
+          12.91511
+        ]
+      },
+      "properties": {
+        "id": "node_539",
+        "risk_score": 41.0,
+        "water_level_m": 1.62,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1746,
+          12.9261
+        ]
+      },
+      "properties": {
+        "id": "node_540",
+        "risk_score": 51.0,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12103,
+          12.91568
+        ]
+      },
+      "properties": {
+        "id": "node_541",
+        "risk_score": 49.0,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15947,
+          12.86481
+        ]
+      },
+      "properties": {
+        "id": "node_542",
+        "risk_score": 57.0,
+        "water_level_m": 2.23,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13154,
+          12.91427
+        ]
+      },
+      "properties": {
+        "id": "node_543",
+        "risk_score": 45.5,
+        "water_level_m": 1.66,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12818,
+          12.88389
+        ]
+      },
+      "properties": {
+        "id": "node_544",
+        "risk_score": 49.5,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15459,
+          12.93324
+        ]
+      },
+      "properties": {
+        "id": "node_545",
+        "risk_score": 48.0,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14881,
+          12.92566
+        ]
+      },
+      "properties": {
+        "id": "node_546",
+        "risk_score": 62.5,
+        "water_level_m": 2.41,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09309,
+          12.893
+        ]
+      },
+      "properties": {
+        "id": "node_547",
+        "risk_score": 41.0,
+        "water_level_m": 1.66,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16941,
+          12.90365
+        ]
+      },
+      "properties": {
+        "id": "node_548",
+        "risk_score": 53.0,
+        "water_level_m": 2.15,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.167,
+          12.89002
+        ]
+      },
+      "properties": {
+        "id": "node_549",
+        "risk_score": 48.5,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11686,
+          12.91493
+        ]
+      },
+      "properties": {
+        "id": "node_550",
+        "risk_score": 54.5,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1424,
+          12.94038
+        ]
+      },
+      "properties": {
+        "id": "node_551",
+        "risk_score": 48.5,
+        "water_level_m": 1.8,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14485,
+          12.89186
+        ]
+      },
+      "properties": {
+        "id": "node_552",
+        "risk_score": 55.0,
+        "water_level_m": 2.01,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13902,
+          12.9291
+        ]
+      },
+      "properties": {
+        "id": "node_553",
+        "risk_score": 54.5,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11874,
+          12.90324
+        ]
+      },
+      "properties": {
+        "id": "node_554",
+        "risk_score": 48.5,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11571,
+          12.89668
+        ]
+      },
+      "properties": {
+        "id": "node_555",
+        "risk_score": 50.5,
+        "water_level_m": 1.86,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13186,
+          12.91382
+        ]
+      },
+      "properties": {
+        "id": "node_556",
+        "risk_score": 46.5,
+        "water_level_m": 1.73,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16182,
+          12.89062
+        ]
+      },
+      "properties": {
+        "id": "node_557",
+        "risk_score": 43.0,
+        "water_level_m": 1.76,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14609,
+          12.90266
+        ]
+      },
+      "properties": {
+        "id": "node_558",
+        "risk_score": 49.5,
+        "water_level_m": 1.88,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12323,
+          12.88655
+        ]
+      },
+      "properties": {
+        "id": "node_559",
+        "risk_score": 55.5,
+        "water_level_m": 2.18,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15179,
+          12.96562
+        ]
+      },
+      "properties": {
+        "id": "node_560",
+        "risk_score": 49.0,
+        "water_level_m": 1.75,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.06129,
+          12.91738
+        ]
+      },
+      "properties": {
+        "id": "node_561",
+        "risk_score": 56.5,
+        "water_level_m": 2.13,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16122,
+          12.89901
+        ]
+      },
+      "properties": {
+        "id": "node_562",
+        "risk_score": 44.5,
+        "water_level_m": 1.59,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.08901,
+          12.92185
+        ]
+      },
+      "properties": {
+        "id": "node_563",
+        "risk_score": 50.0,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12344,
+          12.91369
+        ]
+      },
+      "properties": {
+        "id": "node_564",
+        "risk_score": 44.0,
+        "water_level_m": 1.84,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10451,
+          12.91098
+        ]
+      },
+      "properties": {
+        "id": "node_565",
+        "risk_score": 58.5,
+        "water_level_m": 2.09,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10013,
+          12.93185
+        ]
+      },
+      "properties": {
+        "id": "node_566",
+        "risk_score": 53.0,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16152,
+          12.93544
+        ]
+      },
+      "properties": {
+        "id": "node_567",
+        "risk_score": 49.0,
+        "water_level_m": 1.86,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12081,
+          12.90324
+        ]
+      },
+      "properties": {
+        "id": "node_568",
+        "risk_score": 51.0,
+        "water_level_m": 1.9,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14116,
+          12.9021
+        ]
+      },
+      "properties": {
+        "id": "node_569",
+        "risk_score": 55.0,
+        "water_level_m": 2.2,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13133,
+          12.90962
+        ]
+      },
+      "properties": {
+        "id": "node_570",
+        "risk_score": 49.5,
+        "water_level_m": 1.76,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14443,
+          12.85895
+        ]
+      },
+      "properties": {
+        "id": "node_571",
+        "risk_score": 42.0,
+        "water_level_m": 1.7,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13442,
+          12.87862
+        ]
+      },
+      "properties": {
+        "id": "node_572",
+        "risk_score": 44.5,
+        "water_level_m": 1.87,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10043,
+          12.95067
+        ]
+      },
+      "properties": {
+        "id": "node_573",
+        "risk_score": 46.5,
+        "water_level_m": 1.82,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15741,
+          12.95762
+        ]
+      },
+      "properties": {
+        "id": "node_574",
+        "risk_score": 55.0,
+        "water_level_m": 2.21,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12016,
+          12.91027
+        ]
+      },
+      "properties": {
+        "id": "node_575",
+        "risk_score": 59.5,
+        "water_level_m": 2.1,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09359,
+          12.93091
+        ]
+      },
+      "properties": {
+        "id": "node_576",
+        "risk_score": 43.5,
+        "water_level_m": 1.68,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1218,
+          12.92428
+        ]
+      },
+      "properties": {
+        "id": "node_577",
+        "risk_score": 48.5,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17002,
+          12.99347
+        ]
+      },
+      "properties": {
+        "id": "node_578",
+        "risk_score": 42.5,
+        "water_level_m": 1.74,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15376,
+          12.94449
+        ]
+      },
+      "properties": {
+        "id": "node_579",
+        "risk_score": 45.0,
+        "water_level_m": 1.89,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12378,
+          12.9133
+        ]
+      },
+      "properties": {
+        "id": "node_580",
+        "risk_score": 47.0,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12377,
+          12.89261
+        ]
+      },
+      "properties": {
+        "id": "node_581",
+        "risk_score": 46.5,
+        "water_level_m": 1.85,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12446,
+          12.87634
+        ]
+      },
+      "properties": {
+        "id": "node_582",
+        "risk_score": 49.0,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18442,
+          12.92159
+        ]
+      },
+      "properties": {
+        "id": "node_583",
+        "risk_score": 57.0,
+        "water_level_m": 2.17,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14205,
+          12.89759
+        ]
+      },
+      "properties": {
+        "id": "node_584",
+        "risk_score": 53.5,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14325,
+          12.88094
+        ]
+      },
+      "properties": {
+        "id": "node_585",
+        "risk_score": 45.5,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15826,
+          12.90034
+        ]
+      },
+      "properties": {
+        "id": "node_586",
+        "risk_score": 49.5,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13847,
+          12.88946
+        ]
+      },
+      "properties": {
+        "id": "node_587",
+        "risk_score": 54.5,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12602,
+          12.95868
+        ]
+      },
+      "properties": {
+        "id": "node_588",
+        "risk_score": 55.0,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12759,
+          12.93854
+        ]
+      },
+      "properties": {
+        "id": "node_589",
+        "risk_score": 52.0,
+        "water_level_m": 1.88,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13071,
+          12.9163
+        ]
+      },
+      "properties": {
+        "id": "node_590",
+        "risk_score": 49.5,
+        "water_level_m": 1.82,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13157,
+          12.9535
+        ]
+      },
+      "properties": {
+        "id": "node_591",
+        "risk_score": 46.5,
+        "water_level_m": 1.73,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15069,
+          12.91843
+        ]
+      },
+      "properties": {
+        "id": "node_592",
+        "risk_score": 54.5,
+        "water_level_m": 2.17,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1338,
+          12.89497
+        ]
+      },
+      "properties": {
+        "id": "node_593",
+        "risk_score": 48.5,
+        "water_level_m": 1.89,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15082,
+          12.95458
+        ]
+      },
+      "properties": {
+        "id": "node_594",
+        "risk_score": 54.5,
+        "water_level_m": 2.07,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13048,
+          12.92997
+        ]
+      },
+      "properties": {
+        "id": "node_595",
+        "risk_score": 48.0,
+        "water_level_m": 1.73,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13447,
+          12.89057
+        ]
+      },
+      "properties": {
+        "id": "node_596",
+        "risk_score": 50.0,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.08254,
+          12.91174
+        ]
+      },
+      "properties": {
+        "id": "node_597",
+        "risk_score": 41.5,
+        "water_level_m": 1.7,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15541,
+          12.89461
+        ]
+      },
+      "properties": {
+        "id": "node_598",
+        "risk_score": 52.5,
+        "water_level_m": 1.87,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14116,
+          12.88193
+        ]
+      },
+      "properties": {
+        "id": "node_599",
+        "risk_score": 55.5,
+        "water_level_m": 2.16,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15745,
+          12.93965
+        ]
+      },
+      "properties": {
+        "id": "node_600",
+        "risk_score": 45.5,
+        "water_level_m": 1.78,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.06009,
+          12.96424
+        ]
+      },
+      "properties": {
+        "id": "node_601",
+        "risk_score": 45.0,
+        "water_level_m": 1.62,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18471,
+          12.88154
+        ]
+      },
+      "properties": {
+        "id": "node_602",
+        "risk_score": 43.5,
+        "water_level_m": 1.69,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12901,
+          12.93057
+        ]
+      },
+      "properties": {
+        "id": "node_603",
+        "risk_score": 55.0,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1602,
+          12.90023
+        ]
+      },
+      "properties": {
+        "id": "node_604",
+        "risk_score": 47.5,
+        "water_level_m": 1.73,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1065,
+          12.90432
+        ]
+      },
+      "properties": {
+        "id": "node_605",
+        "risk_score": 37.5,
+        "water_level_m": 1.63,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14782,
+          12.90169
+        ]
+      },
+      "properties": {
+        "id": "node_606",
+        "risk_score": 51.0,
+        "water_level_m": 2.05,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10616,
+          12.8949
+        ]
+      },
+      "properties": {
+        "id": "node_607",
+        "risk_score": 49.0,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11691,
+          12.91771
+        ]
+      },
+      "properties": {
+        "id": "node_608",
+        "risk_score": 49.0,
+        "water_level_m": 1.87,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18035,
+          12.89573
+        ]
+      },
+      "properties": {
+        "id": "node_609",
+        "risk_score": 37.0,
+        "water_level_m": 1.46,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12773,
+          12.92326
+        ]
+      },
+      "properties": {
+        "id": "node_610",
+        "risk_score": 46.0,
+        "water_level_m": 1.83,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13794,
+          12.91524
+        ]
+      },
+      "properties": {
+        "id": "node_611",
+        "risk_score": 51.0,
+        "water_level_m": 1.96,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15425,
+          12.91053
+        ]
+      },
+      "properties": {
+        "id": "node_612",
+        "risk_score": 46.0,
+        "water_level_m": 1.65,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14489,
+          12.89381
+        ]
+      },
+      "properties": {
+        "id": "node_613",
+        "risk_score": 52.0,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13626,
+          12.90208
+        ]
+      },
+      "properties": {
+        "id": "node_614",
+        "risk_score": 49.5,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14162,
+          12.93538
+        ]
+      },
+      "properties": {
+        "id": "node_615",
+        "risk_score": 48.0,
+        "water_level_m": 1.84,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.19259,
+          12.92902
+        ]
+      },
+      "properties": {
+        "id": "node_616",
+        "risk_score": 59.5,
+        "water_level_m": 2.1,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13106,
+          12.89206
+        ]
+      },
+      "properties": {
+        "id": "node_617",
+        "risk_score": 52.5,
+        "water_level_m": 2.09,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13753,
+          12.91898
+        ]
+      },
+      "properties": {
+        "id": "node_618",
+        "risk_score": 52.5,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15877,
+          12.93528
+        ]
+      },
+      "properties": {
+        "id": "node_619",
+        "risk_score": 47.5,
+        "water_level_m": 1.76,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16014,
+          12.87476
+        ]
+      },
+      "properties": {
+        "id": "node_620",
+        "risk_score": 52.0,
+        "water_level_m": 1.88,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16218,
+          12.93008
+        ]
+      },
+      "properties": {
+        "id": "node_621",
+        "risk_score": 50.5,
+        "water_level_m": 1.88,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14847,
+          12.89993
+        ]
+      },
+      "properties": {
+        "id": "node_622",
+        "risk_score": 49.0,
+        "water_level_m": 1.96,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10392,
+          12.93076
+        ]
+      },
+      "properties": {
+        "id": "node_623",
+        "risk_score": 52.0,
+        "water_level_m": 1.99,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17334,
+          12.89742
+        ]
+      },
+      "properties": {
+        "id": "node_624",
+        "risk_score": 51.0,
+        "water_level_m": 1.86,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10384,
+          12.87138
+        ]
+      },
+      "properties": {
+        "id": "node_625",
+        "risk_score": 58.0,
+        "water_level_m": 2.3,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14007,
+          12.87581
+        ]
+      },
+      "properties": {
+        "id": "node_626",
+        "risk_score": 54.5,
+        "water_level_m": 2.18,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11364,
+          12.9177
+        ]
+      },
+      "properties": {
+        "id": "node_627",
+        "risk_score": 48.0,
+        "water_level_m": 1.96,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1309,
+          12.92299
+        ]
+      },
+      "properties": {
+        "id": "node_628",
+        "risk_score": 47.5,
+        "water_level_m": 1.75,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14072,
+          12.89389
+        ]
+      },
+      "properties": {
+        "id": "node_629",
+        "risk_score": 53.5,
+        "water_level_m": 2.02,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14053,
+          12.93246
+        ]
+      },
+      "properties": {
+        "id": "node_630",
+        "risk_score": 45.5,
+        "water_level_m": 1.91,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14305,
+          12.87496
+        ]
+      },
+      "properties": {
+        "id": "node_631",
+        "risk_score": 49.5,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17284,
+          12.91485
+        ]
+      },
+      "properties": {
+        "id": "node_632",
+        "risk_score": 58.5,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14384,
+          12.88622
+        ]
+      },
+      "properties": {
+        "id": "node_633",
+        "risk_score": 50.5,
+        "water_level_m": 1.8,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1264,
+          12.9002
+        ]
+      },
+      "properties": {
+        "id": "node_634",
+        "risk_score": 50.5,
+        "water_level_m": 1.92,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1566,
+          12.91768
+        ]
+      },
+      "properties": {
+        "id": "node_635",
+        "risk_score": 43.5,
+        "water_level_m": 1.82,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16224,
+          12.89499
+        ]
+      },
+      "properties": {
+        "id": "node_636",
+        "risk_score": 53.5,
+        "water_level_m": 2.04,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10181,
+          12.90689
+        ]
+      },
+      "properties": {
+        "id": "node_637",
+        "risk_score": 50.0,
+        "water_level_m": 1.92,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14744,
+          12.94166
+        ]
+      },
+      "properties": {
+        "id": "node_638",
+        "risk_score": 50.0,
+        "water_level_m": 1.8,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15003,
+          12.90208
+        ]
+      },
+      "properties": {
+        "id": "node_639",
+        "risk_score": 54.5,
+        "water_level_m": 2.11,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12506,
+          12.93739
+        ]
+      },
+      "properties": {
+        "id": "node_640",
+        "risk_score": 47.5,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16689,
+          12.88826
+        ]
+      },
+      "properties": {
+        "id": "node_641",
+        "risk_score": 47.0,
+        "water_level_m": 1.78,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12875,
+          12.92975
+        ]
+      },
+      "properties": {
+        "id": "node_642",
+        "risk_score": 45.5,
+        "water_level_m": 1.85,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13564,
+          12.95254
+        ]
+      },
+      "properties": {
+        "id": "node_643",
+        "risk_score": 50.5,
+        "water_level_m": 2.07,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12817,
+          12.85471
+        ]
+      },
+      "properties": {
+        "id": "node_644",
+        "risk_score": 54.0,
+        "water_level_m": 1.96,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13289,
+          12.89658
+        ]
+      },
+      "properties": {
+        "id": "node_645",
+        "risk_score": 54.5,
+        "water_level_m": 2.07,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10509,
+          12.93093
+        ]
+      },
+      "properties": {
+        "id": "node_646",
+        "risk_score": 49.0,
+        "water_level_m": 1.82,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.0965,
+          12.91142
+        ]
+      },
+      "properties": {
+        "id": "node_647",
+        "risk_score": 44.5,
+        "water_level_m": 1.82,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17236,
+          12.92578
+        ]
+      },
+      "properties": {
+        "id": "node_648",
+        "risk_score": 51.0,
+        "water_level_m": 1.97,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11133,
+          12.9014
+        ]
+      },
+      "properties": {
+        "id": "node_649",
+        "risk_score": 50.0,
+        "water_level_m": 1.96,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10772,
+          12.91866
+        ]
+      },
+      "properties": {
+        "id": "node_650",
+        "risk_score": 52.5,
+        "water_level_m": 2.09,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.07867,
+          12.91261
+        ]
+      },
+      "properties": {
+        "id": "node_651",
+        "risk_score": 57.5,
+        "water_level_m": 2.14,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11653,
+          12.94569
+        ]
+      },
+      "properties": {
+        "id": "node_652",
+        "risk_score": 54.0,
+        "water_level_m": 2.17,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09942,
+          12.92286
+        ]
+      },
+      "properties": {
+        "id": "node_653",
+        "risk_score": 59.0,
+        "water_level_m": 2.23,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.17355,
+          12.92494
+        ]
+      },
+      "properties": {
+        "id": "node_654",
+        "risk_score": 47.0,
+        "water_level_m": 1.71,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15775,
+          12.9062
+        ]
+      },
+      "properties": {
+        "id": "node_655",
+        "risk_score": 55.0,
+        "water_level_m": 2.14,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1153,
+          12.90431
+        ]
+      },
+      "properties": {
+        "id": "node_656",
+        "risk_score": 52.0,
+        "water_level_m": 2.07,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18881,
+          12.90569
+        ]
+      },
+      "properties": {
+        "id": "node_657",
+        "risk_score": 44.0,
+        "water_level_m": 1.66,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15704,
+          12.92636
+        ]
+      },
+      "properties": {
+        "id": "node_658",
+        "risk_score": 53.5,
+        "water_level_m": 2.14,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12438,
+          12.90598
+        ]
+      },
+      "properties": {
+        "id": "node_659",
+        "risk_score": 50.0,
+        "water_level_m": 2.04,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.07001,
+          12.92374
+        ]
+      },
+      "properties": {
+        "id": "node_660",
+        "risk_score": 44.0,
+        "water_level_m": 1.65,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.18977,
+          12.96839
+        ]
+      },
+      "properties": {
+        "id": "node_661",
+        "risk_score": 61.5,
+        "water_level_m": 2.45,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09776,
+          12.93828
+        ]
+      },
+      "properties": {
+        "id": "node_662",
+        "risk_score": 54.0,
+        "water_level_m": 1.94,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09137,
+          12.90835
+        ]
+      },
+      "properties": {
+        "id": "node_663",
+        "risk_score": 49.0,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15806,
+          12.94653
+        ]
+      },
+      "properties": {
+        "id": "node_664",
+        "risk_score": 47.0,
+        "water_level_m": 1.72,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.19349,
+          12.9063
+        ]
+      },
+      "properties": {
+        "id": "node_665",
+        "risk_score": 53.5,
+        "water_level_m": 2.15,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.16711,
+          12.86555
+        ]
+      },
+      "properties": {
+        "id": "node_666",
+        "risk_score": 53.0,
+        "water_level_m": 2.06,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1466,
+          12.8913
+        ]
+      },
+      "properties": {
+        "id": "node_667",
+        "risk_score": 41.5,
+        "water_level_m": 1.53,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14737,
+          12.86973
+        ]
+      },
+      "properties": {
+        "id": "node_668",
+        "risk_score": 47.5,
+        "water_level_m": 1.82,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15384,
+          12.90771
+        ]
+      },
+      "properties": {
+        "id": "node_669",
+        "risk_score": 61.5,
+        "water_level_m": 2.33,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15147,
+          12.91696
+        ]
+      },
+      "properties": {
+        "id": "node_670",
+        "risk_score": 52.5,
+        "water_level_m": 1.88,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13953,
+          12.95841
+        ]
+      },
+      "properties": {
+        "id": "node_671",
+        "risk_score": 48.5,
+        "water_level_m": 1.98,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13511,
+          12.92467
+        ]
+      },
+      "properties": {
+        "id": "node_672",
+        "risk_score": 54.5,
+        "water_level_m": 2.16,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13094,
+          12.91102
+        ]
+      },
+      "properties": {
+        "id": "node_673",
+        "risk_score": 46.0,
+        "water_level_m": 1.78,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11365,
+          12.93724
+        ]
+      },
+      "properties": {
+        "id": "node_674",
+        "risk_score": 58.5,
+        "water_level_m": 2.34,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12548,
+          12.86122
+        ]
+      },
+      "properties": {
+        "id": "node_675",
+        "risk_score": 47.0,
+        "water_level_m": 1.79,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09018,
+          12.92239
+        ]
+      },
+      "properties": {
+        "id": "node_676",
+        "risk_score": 46.0,
+        "water_level_m": 1.93,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13004,
+          12.93577
+        ]
+      },
+      "properties": {
+        "id": "node_677",
+        "risk_score": 54.5,
+        "water_level_m": 2.12,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10779,
+          12.87954
+        ]
+      },
+      "properties": {
+        "id": "node_678",
+        "risk_score": 45.5,
+        "water_level_m": 1.81,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10491,
+          12.94509
+        ]
+      },
+      "properties": {
+        "id": "node_679",
+        "risk_score": 54.0,
+        "water_level_m": 1.95,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.137,
+          12.92496
+        ]
+      },
+      "properties": {
+        "id": "node_680",
+        "risk_score": 50.0,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1673,
+          12.90612
+        ]
+      },
+      "properties": {
+        "id": "node_681",
+        "risk_score": 57.5,
+        "water_level_m": 2.14,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15546,
+          12.93232
+        ]
+      },
+      "properties": {
+        "id": "node_682",
+        "risk_score": 56.5,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09324,
+          12.97327
+        ]
+      },
+      "properties": {
+        "id": "node_683",
+        "risk_score": 52.5,
+        "water_level_m": 1.85,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10776,
+          12.92105
+        ]
+      },
+      "properties": {
+        "id": "node_684",
+        "risk_score": 54.5,
+        "water_level_m": 2.08,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.15602,
+          12.92271
+        ]
+      },
+      "properties": {
+        "id": "node_685",
+        "risk_score": 47.0,
+        "water_level_m": 1.82,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10794,
+          12.90502
+        ]
+      },
+      "properties": {
+        "id": "node_686",
+        "risk_score": 53.5,
+        "water_level_m": 2.1,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.12688,
+          12.89525
+        ]
+      },
+      "properties": {
+        "id": "node_687",
+        "risk_score": 60.5,
+        "water_level_m": 2.38,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14625,
+          12.93726
+        ]
+      },
+      "properties": {
+        "id": "node_688",
+        "risk_score": 48.5,
+        "water_level_m": 1.74,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.10829,
+          12.8951
+        ]
+      },
+      "properties": {
+        "id": "node_689",
+        "risk_score": 43.0,
+        "water_level_m": 1.75,
+        "status": "NOMINAL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13513,
+          12.91829
+        ]
+      },
+      "properties": {
+        "id": "node_690",
+        "risk_score": 46.5,
+        "water_level_m": 1.71,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09915,
+          12.90456
+        ]
+      },
+      "properties": {
+        "id": "node_691",
+        "risk_score": 46.0,
+        "water_level_m": 1.89,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.11747,
+          12.92847
+        ]
+      },
+      "properties": {
+        "id": "node_692",
+        "risk_score": 50.5,
+        "water_level_m": 2.03,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14049,
+          12.92484
+        ]
+      },
+      "properties": {
+        "id": "node_693",
+        "risk_score": 46.5,
+        "water_level_m": 1.81,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.09268,
+          12.94244
+        ]
+      },
+      "properties": {
+        "id": "node_694",
+        "risk_score": 56.5,
+        "water_level_m": 2.2,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14351,
+          12.90375
+        ]
+      },
+      "properties": {
+        "id": "node_695",
+        "risk_score": 47.0,
+        "water_level_m": 1.76,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.13201,
+          12.90975
+        ]
+      },
+      "properties": {
+        "id": "node_696",
+        "risk_score": 51.5,
+        "water_level_m": 1.96,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.14631,
+          12.89203
+        ]
+      },
+      "properties": {
+        "id": "node_697",
+        "risk_score": 59.5,
+        "water_level_m": 2.33,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1381,
+          12.90539
+        ]
+      },
+      "properties": {
+        "id": "node_698",
+        "risk_score": 64.0,
+        "water_level_m": 2.37,
+        "status": "WARNING"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.1666,
+          12.92593
+        ]
+      },
+      "properties": {
+        "id": "node_699",
+        "risk_score": 58.5,
+        "water_level_m": 2.16,
+        "status": "WARNING"
+      }
+    }
+  ]
+}
